@@ -1,0 +1,29 @@
+commit 772060a00efbcc03ec48cf3c1ac08ae272c88d00
+Author: Mark McWilliams <coltmark2015@gmail.com>
+Date:   Fri Oct 2 16:27:04 2026 -0600
+
+    Implement Student, ScoreTrakker, and data files. Driver: Mark McWilliams, Navigator: Aiden Murphy
+
+commit 2ee79d0d2371eb3f4c2228dfccd546633298fd05
+Author: aidenmurphy-a11y <aiden_murphy@mines.edu>
+Date:   Fri Oct 2 17:02:36 2026 +0000
+
+    Added all the files for the project and added and built a framework for both the ScoreTrakker and Student classes to be completed later.
+
+commit bb33f45ab440757ece961780f730ef9c51aa3d28
+Author: aidenmurphy-a11y <aiden_murphy@mines.edu>
+Date:   Fri Oct 2 10:55:31 2026 -0600
+
+    Create Student.java
+
+commit 809d335131aad422e480a0217a247de65f3e1ddd
+Author: aidenmurphy-a11y <aiden_murphy@mines.edu>
+Date:   Fri Oct 2 10:53:20 2026 -0600
+
+    Create ScoreTrakker.java
+
+commit f1da85aec7328f626bf8505340dc0da9dfbef5f0
+Author: aidenmurphy-a11y <aiden_murphy@mines.edu>
+Date:   Fri Oct 2 10:52:18 2026 -0600
+
+    Initial commit
