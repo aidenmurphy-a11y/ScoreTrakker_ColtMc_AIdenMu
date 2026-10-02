@@ -9,12 +9,12 @@ public class Student implements Comparable<Student> {
 
 	@Override
 	public int compareTo(Student other) {
-
+		return name.compareTo(other.name);
 	}
 
 	@Override
 	public String toString() {
-
+		return name + ": " + score;
 	}
 }
 
